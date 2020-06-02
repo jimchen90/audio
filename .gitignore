@@ -1,7 +1,3 @@
-# file to solve the bug of torchaudio
-.use_external_sox
-/third_party
-.cached/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
